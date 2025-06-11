@@ -1,5 +1,4 @@
-# Capstone---Project
-Web &amp; Social Media Analytics
+
 ## Business Understanding
 
 With a growing trend towards digitisation and prevalence of mobile phones and internet access, more consumers have an online presence and their opinions hold a good value 
